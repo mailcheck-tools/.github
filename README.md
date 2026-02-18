@@ -67,3 +67,6 @@ Repositories will be published when the first version goes live.
 **mailcheck.tools** is part of MSCP (Mail Security Compliance Platform).
 
 License: [EUPL-1.2](https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12) (Code) | [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/) (Test Rules) | [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) (Docs)
+
+---
+*Last updated: 2026-02-18*
